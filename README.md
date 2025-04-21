@@ -1,21 +1,6 @@
 ## Hi there, I'm Chathura Ellawala 👋
 ![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
 
-<!--
-**chathurasakun/chathurasakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
@@ -42,4 +27,3 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chathurasakun&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chathurasakun&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
--->
