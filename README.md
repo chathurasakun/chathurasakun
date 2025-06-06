@@ -1,5 +1,6 @@
 ## Hi there, I'm Chathura Ellawala 👋
-![](https://komarev.com/ghpvc/?username=your_username&color=give_your_color)
+
+## I'm a mobile engineer who likes to dicover more oppotunities
 
 <h3>When I code, I rely on</h3>
 <p>
